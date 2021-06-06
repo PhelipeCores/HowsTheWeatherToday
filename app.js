@@ -1,3 +1,4 @@
+ 
 let weather = {
 //  personal API CODE. 
   "apiKey":"247def972ff1d7467295eb28dc5b779f",
@@ -49,5 +50,3 @@ document.querySelector(".search-bar")
       weather.search();
     }
   });
-
-
